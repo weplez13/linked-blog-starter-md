@@ -11,9 +11,11 @@
             "id": "a2e7f4f576fe146f",
             "type": "leaf",
             "state": {
-              "type": "dataloom",
+              "type": "markdown",
               "state": {
-                "file": "Calendar/Untitled.loom"
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Untitled.loom",
+            "file": "test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Untitled.loom",
+            "file": "test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Untitled.loom"
+            "file": "test.md"
           }
         }
       },
@@ -161,6 +163,7 @@
   "active": "a2e7f4f576fe146f",
   "lastOpenFiles": [
     "Calendar/Untitled.loom",
+    "test.md",
     "Calendar/2024-03-15 ssss.md",
     "Technical/GIT for Obsidian.md",
     "Technical",
@@ -185,7 +188,6 @@
     "Art/Projects/Music and Dreams",
     "Hmmm.md",
     "MEow bitch.md",
-    "bonkersss",
     "FUCKA UOAOA.md",
     "Idgaf v3.md",
     "Idgaf.md",
