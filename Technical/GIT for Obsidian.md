@@ -10,4 +10,4 @@ git config --global user.signingkey C:/Users/Phreakasso/.ssh/id_rsa
 ```
 
 
-
+For the phone app make sure to mess with the remote key 
