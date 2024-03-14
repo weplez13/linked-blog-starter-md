@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46a001d6601b1e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEow bitch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2e7f4f576fe146f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How it works.md",
+                "file": "Journal/2024-03-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "How it works.md",
+            "file": "Journal/2024-03-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "How it works.md",
+            "file": "Journal/2024-03-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,8 +114,32 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "How it works.md"
+            "file": "Journal/2024-03-13.md"
           }
+        }
+      },
+      {
+        "id": "f0d1cbe88365a0c8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4d0bdda71f46a7ea",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "4072d4e5c5b7a667",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
         }
       }
     ],
@@ -136,18 +147,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "excel:Create Excel File": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "a2e7f4f576fe146f",
   "lastOpenFiles": [
-    "Hmmm.md",
     "How it works.md",
+    "Journal/2024-03-13.md",
+    "Dreams/14-03-2024.md",
+    "Dreams",
+    "Admin/Budget.sheet.md",
+    "Art/Projects/Music and Dreams/Music and Dreams.md",
+    "Art",
+    "Journal",
+    "Admin",
+    "Calendar/2024-03-14 25225.md",
+    "Calendar/2024-03-14 55.md",
+    "Calendar",
+    "Art/Projects",
+    "Art/Projects/Music and Dreams/Pics/Screenshot_1.png",
+    "Art/Projects/Music and Dreams/Pictures.canvas",
+    "Art/Projects/Music and Dreams/Pics",
+    "Art/Projects/Music and Dreams",
+    "Hmmm.md",
     "MEow bitch.md",
     "bonkersss",
     "FUCKA UOAOA.md",
