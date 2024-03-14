@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IcMachineLearningAlgorithm22213",
       "LoArtificialIntelligenceDeepLearning22108",
       "BoBxCloudLightRain"
     ],
@@ -24,5 +25,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Technical": "LoArtificialIntelligenceDeepLearning22108"
+  "Technical": "LoArtificialIntelligenceDeepLearning22108",
+  "Admin": "IcMachineLearningAlgorithm22213"
 }
