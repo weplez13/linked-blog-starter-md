@@ -11,8 +11,10 @@
             "id": "a2e7f4f576fe146f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "dataloom",
+              "state": {
+                "file": "Calendar/Untitled.loom"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Calendar/Untitled.loom",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Calendar/Untitled.loom",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Calendar/Untitled.loom"
+          }
         }
       },
       {
@@ -152,8 +158,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a060cd6957df4229",
+  "active": "a2e7f4f576fe146f",
   "lastOpenFiles": [
+    "Calendar/Untitled.loom",
     "Calendar/2024-03-15 ssss.md",
     "Technical/GIT for Obsidian.md",
     "Technical",

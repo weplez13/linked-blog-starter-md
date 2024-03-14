@@ -3,12 +3,14 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IcMachineLearningAlgorithm22213",
-      "LoArtificialIntelligenceDeepLearning22108",
-      "BoBxCloudLightRain"
+      "⚙",
+      "IcCuteCartoonEyes15465",
+      "📅",
+      "✨",
+      "IcMachineLearningAlgorithm22213"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,6 +27,9 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Technical": "LoArtificialIntelligenceDeepLearning22108",
-  "Admin": "IcMachineLearningAlgorithm22213"
+  "Technical": "⚙",
+  "Admin": "IcMachineLearningAlgorithm22213",
+  "Dreams": "✨",
+  "Calendar": "📅",
+  "Art": "IcCuteCartoonEyes15465"
 }
