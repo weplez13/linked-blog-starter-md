@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b0d9c25ec4069a71","x":-456,"y":-280,"width":250,"height":60,"type":"text","text":"Reference\n"},
+		{"id":"a4bcffae083790bf","x":-531,"y":-140,"width":400,"height":396,"type":"file","file":"Art/Projects/Music and Dreams/Pics/Screenshot_1.png"}
+	],
+	"edges":[
+		{"id":"9c801ed93dfadbb0","fromNode":"b0d9c25ec4069a71","fromSide":"bottom","toNode":"a4bcffae083790bf","toSide":"top"}
+	]
+}
